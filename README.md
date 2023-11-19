@@ -1,2 +1,0 @@
-# snow-crash
-Il neige

@@ -1,0 +1,4 @@
+strings | /usr/bin/env echo Exploit me
+echo '/bin/getflag/' > echo
+PATH += /tmp
+chmod 777 
