@@ -1,3 +1,2 @@
-find / -user "flag00" 2>/dev/null
-
-https://www.dcode.fr/caesar-cipher
+find / -user "flag00" 2>/dev/null -> JTR
+https://www.dcode.fr/caesar-cipher -> cdiiddwpgswtgt -> nottoohardhere

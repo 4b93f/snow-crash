@@ -1,1 +1,5 @@
-JTR
+/etc/passwd ...
+
+42hDRfypTqqnls
+
+/usr/sbin/john --show -> JTR
