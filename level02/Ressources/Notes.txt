@@ -1,1 +1,8 @@
-Wireshark
+scp level02.pcap to local machine
+
+chmod 777 to give perm
+
+open wireshark with the file.
+
+search for any mystic things
+
